@@ -61,7 +61,7 @@ st.markdown(
     <style>
     .footer {
         position: fixed;
-        bottom: 25%;
+        bottom: 20%;
         left: 0;
         width: 100%;
         text-align: center;
