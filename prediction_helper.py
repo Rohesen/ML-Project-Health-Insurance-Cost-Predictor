@@ -1,14 +1,7 @@
 # codebasics ML course: codebasics.io, all rights reserverd
 
 import pandas as pd
-import sys
-import subprocess
-
-try:
-    import joblib
-except ImportError:
-    subprocess.run([sys.executable, "-m", "pip", "install", "--user", "joblib"])
-    import joblib  # Try importing again after installation
+import joblib  
 
 # Load models
 model_young = joblib.load("artifacts/model_young.joblib")
