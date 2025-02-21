@@ -7,6 +7,8 @@ With **50,000 records**, we built a robust model and deployed it on **Streamlit 
 
 🔗 **Live App:** [Health Insurance Cost Predictor](https://ml-project-health-insurance-cost-predictor-rohesen.streamlit.app/)  
 
+[Live Project](https://github.com/Rohesen/ML-Project-Health-Insurance-Cost-Predictor/blob/main/ml-premium-predictor-rohesen.gif)
+
 ---
 
 ## 🛠 **Data Processing Steps**  
